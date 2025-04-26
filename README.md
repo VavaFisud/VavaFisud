@@ -45,7 +45,7 @@
 
 ## 📫 Me contacter
 
-- 📧 valerian@icloud.com 
+- 📧 valerian.mayeux@icloud.com 
 - 💬 Discord : usecodeasky 
 
 ---
