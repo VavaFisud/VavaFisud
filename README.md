@@ -38,7 +38,7 @@
 ## 📈 Mon activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE-NOM-DUTILISATEUR&show_icons=true&theme=tokyonight" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VavaFisud&show_icons=true&theme=tokyonight" alt="Stats GitHub" />
 </p>
 
 ---
