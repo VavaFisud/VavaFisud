@@ -45,8 +45,8 @@
 
 ## 📫 Me contacter
 
-- 📧 valerian@icloud.com *(remplacer par ton vrai mail)*
-- 💬 Discord : usecodeasky *(si tu veux ajouter ton Discord)*
+- 📧 valerian@icloud.com 
+- 💬 Discord : usecodeasky 
 
 ---
 
