@@ -10,7 +10,7 @@
 
 - 🌱 J'apprends actuellement **Flask**, **Python** et **hardware**.
 - 🛠️ Je me perfectionne en **cybersécurité** (pentesting, réseau, outils).
-- 🔥 Je travaille sur **Optima**, un projet mêlant web et sécurité.
+- 🔥 Je travaille sur **Optima**, un projet de passerelle de sécurisation.
 - 🎯 Objectif : devenir un développeur polyvalent et un expert en cybersécurité.
 
 ---
